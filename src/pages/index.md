@@ -22,7 +22,7 @@ sections:
       background_color: blue
       background_image: images/ezgif.com-video-to-gif.gif
       background_image_opacity: 19
-      background_image_size: auto
+      background_image_size: contain
       background_image_repeat: repeat
   - type: features_section
     title: Features
