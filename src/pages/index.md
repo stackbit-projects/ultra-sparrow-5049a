@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/1.png
+    image: images/ezgif.com-video-to-gif.gif
     image_alt: Hero placeholder image
     image_position: left
     has_background: true
