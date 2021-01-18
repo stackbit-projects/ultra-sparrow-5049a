@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/qc-logo-2.png"
     },
     "footer": {
         "has_nav": true,
